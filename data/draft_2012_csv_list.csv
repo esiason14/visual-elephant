@@ -1,0 +1,177 @@
+ID,team,pick,score,score_diff,name
+0,Herlev Tech,0,155.70,-43.67,Chris Johnson
+1,The Hot Rods IV,0,162.50,-36.87,LeSean McCoy
+2,Fenris,0,209.80,10.43,Ray Rice
+3,The Giant,0,241.56,42.19,Tom Brady
+4,Svingets Superheroes,0,238.92,39.55,Drew Brees
+5,Showstoppers,0,225.60,26.23,Arian Foster
+6,Nordvest Annihilators,0,207.24,7.87,Cam Newton
+7,Red Nation,0,105.50,-93.87,Darren McFadden
+8,Feta Chargers,0,218.70,19.33,Calvin Johnson
+9,Team America,0,228.22,28.85,Aaron Rodgers
+10,Mean,0,199.37,0.00,Round 0
+0,Herlev Tech,1,115.30,-38.20,Steven Jackson
+1,The Hot Rods IV,1,67.80,-85.70,DeMarco Murray
+2,Fenris,1,175.08,21.58,Tony Romo
+3,The Giant,1,185.80,32.30,Rob Gronkowski
+4,Svingets Superheroes,1,141.70,-11.80,Larry Fitzgerald
+5,Showstoppers,1,116.30,-37.20,Ryan Mathews
+6,Nordvest Annihilators,1,192.80,39.30,Andre Johnson
+7,Red Nation,1,203.06,49.56,Matthew Stafford
+8,Feta Chargers,1,207.50,54.00,Matt Ryan
+9,Team America,1,129.70,-23.80,Matt Forte
+10,Mean,1,153.50,0.00,Round 1
+0,Herlev Tech,2,190.10,42.74,Trent Richardson
+1,The Hot Rods IV,2,162.50,15.14,Jimmy Graham
+2,Fenris,2,147.80,0.44,Jordy Nelson
+3,The Giant,2,191.30,43.94,Roddy White
+4,Svingets Superheroes,2,157.70,10.34,Jamaal Charles
+5,Showstoppers,2,64.60,-82.76,Greg Jennings
+6,Nordvest Annihilators,2,95.50,-51.86,Fred Jackson
+7,Red Nation,2,179.20,31.84,Julio Jones
+8,Feta Chargers,2,92.80,-54.56,Antonio Gates
+9,Team America,2,192.10,44.74,Wes Welker
+10,Mean,2,147.36,0.00,Round 2
+0,Herlev Tech,3,76.00,-60.02,Maurice Jones-Drew
+1,The Hot Rods IV,3,107.20,-28.82,Hakeem Nicks
+2,Fenris,3,121.70,-14.32,Shonn Greene
+3,The Giant,3,124.10,-11.92,Michael Turner
+4,Svingets Superheroes,3,233.00,96.98,A.J. Green
+5,Showstoppers,3,188.90,52.88,Victor Cruz
+6,Nordvest Annihilators,3,161.90,25.88,Frank Gore
+7,Red Nation,3,162.90,26.88,Marshawn Lynch
+8,Feta Chargers,3,135.10,-0.92,Reggie Bush
+9,Team America,3,49.40,-86.62,Aaron Hernandez
+10,Mean,3,136.02,0.00,Round 3
+0,Herlev Tech,4,230.70,57.29,Brandon Marshall
+1,The Hot Rods IV,4,217.10,43.69,Adrian Peterson
+2,Fenris,4,130.20,-43.21,Steve Smith
+3,The Giant,4,139.00,-34.41,Mike Wallace
+4,Svingets Superheroes,4,170.50,-2.91,Eric Decker
+5,Showstoppers,4,176.70,3.29,Marques Colston
+6,Nordvest Annihilators,4,187.60,14.19,Dez Bryant
+7,Red Nation,4,225.20,51.79,Doug Martin
+8,Feta Chargers,4,134.60,-38.81,Ahmad Bradshaw
+9,Team America,4,122.50,-50.91,Darren Sproles
+10,Mean,4,173.41,0.00,Round 4
+0,Herlev Tech,5,153.60,25.13,Eli Manning
+1,The Hot Rods IV,5,135.70,7.23,Dwayne Bowe
+2,Fenris,5,186.90,58.43,Vincent Jackson
+3,The Giant,5,11.00,-117.47,Beanie Wells
+4,Svingets Superheroes,5,83.80,-44.67,Jermichael Finley
+5,Showstoppers,5,139.30,10.83,Michael Vick
+6,Nordvest Annihilators,5,122.10,-6.37,Brandon Lloyd
+7,Red Nation,5,98.50,-29.97,Antonio Brown
+8,Feta Chargers,5,161.30,32.83,Percy Harvin
+9,Team America,5,192.50,64.03,Demaryius Thomas
+10,Mean,5,128.47,0.00,Round 5
+0,Herlev Tech,6,152.20,7.15,Torrey Smith
+1,The Hot Rods IV,6,144.76,-0.29,Philip Rivers
+2,Fenris,6,113.70,-31.35,Vernon Davis
+3,The Giant,6,139.20,-5.85,Willis McGahee
+4,Svingets Superheroes,6,145.70,0.65,Steve Johnson
+5,Showstoppers,6,115.40,-29.65,Jeremy Maclin
+6,Nordvest Annihilators,6,159.00,13.95,Jason Witten
+7,Red Nation,6,210.50,65.45,Reggie Wayne
+8,Feta Chargers,6,126.30,-18.75,DeSean Jackson
+9,Team America,6,143.70,-1.35,Miles Austin
+10,Mean,6,145.05,0.00,Round 6
+0,Herlev Tech,7,113.30,5.61,Brandon Pettigrew
+1,The Hot Rods IV,7,77.00,-30.69,Titus Young
+2,Fenris,7,141.40,33.71,Malcom Floyd
+3,The Giant,7,51.20,-56.49,Santonio Holmes
+4,Svingets Superheroes,7,54.50,-53.19,Cedric Benson
+5,Showstoppers,7,217.90,110.21,Peyton Manning
+6,Nordvest Annihilators,7,124.40,16.71,BenJarvus Green-Ellis
+7,Red Nation,7,141.60,33.91,Stevan Ridley
+8,Feta Chargers,7,112.70,5.01,Nate Washington
+9,Team America,7,42.90,-64.79,Ben Tate
+10,Mean,7,107.69,0.00,Round 7
+0,Herlev Tech,8,95.10,36.52,Justin Blackmon
+1,The Hot Rods IV,8,15.60,-42.98,Peyton Hillis
+2,Fenris,8,58.70,0.12,Jonathan Stewart
+3,The Giant,8,58.10,-0.48,Pierre Garcon
+4,Svingets Superheroes,8,49.30,-9.28,Donald Brown
+5,Showstoppers,8,56.60,-1.98,Fred Davis
+6,Nordvest Annihilators,8,1.80,-56.78,LeGarrette Blount
+7,Red Nation,8,13.70,-44.88,David Wilson
+8,Feta Chargers,8,81.60,23.02,Pierre Thomas
+9,Team America,8,155.28,96.70,Ben Roethlisberger
+10,Mean,8,58.58,0.00,Round 8
+0,Herlev Tech,9,11.00,-72.96,Ryan Williams
+1,The Hot Rods IV,9,1.60,-82.36,Austin Collie
+2,Fenris,9,138.90,54.94,Lance Moore
+3,The Giant,9,54.90,-29.06,DeAngelo Williams
+4,Svingets Superheroes,9,118.00,34.04,San Francisco 49ers
+5,Showstoppers,9,34.10,-49.86,Kevin Smith
+6,Nordvest Annihilators,9,125.20,41.24,Anquan Boldin
+7,Red Nation,9,232.54,148.58,Robert Griffin III
+8,Feta Chargers,9,28.40,-55.56,Rashard Mendenhall
+9,Team America,9,95.00,11.04,Kenny Britt
+10,Mean,9,83.96,0.00,Round 9
+0,Herlev Tech,10,104.38,-7.90,Joe Flacco
+1,The Hot Rods IV,10,192.50,80.22,Andrew Luck
+2,Fenris,10,198.06,85.78,Andy Dalton
+3,The Giant,10,170.90,58.62,Matt Schaub
+4,Svingets Superheroes,10,16.70,-95.58,Greg Little
+5,Showstoppers,10,91.60,-20.68,Darrius Heyward-Bey
+6,Nordvest Annihilators,10,55.00,-57.28,Green Bay Packers
+7,Red Nation,10,110.80,-1.48,Jermaine Gresham
+8,Feta Chargers,10,6.70,-105.58,Roy Helu
+9,Team America,10,176.20,63.92,Tony Gonzalez
+10,Mean,10,112.28,0.00,Round 10
+0,Herlev Tech,11,15.20,-57.79,Robert Meachem
+1,The Hot Rods IV,11,174.20,101.21,C.J. Spiller
+2,Fenris,11,6.30,-66.69,Doug Baldwin
+3,The Giant,11,72.40,-0.59,Isaac Redman
+4,Svingets Superheroes,11,1.50,-71.49,Mark Ingram
+5,Showstoppers,11,137.50,64.51,Michael Crabtree
+6,Nordvest Annihilators,11,12.90,-60.09,Mario Manningham
+7,Red Nation,11,131.90,58.91,Denarius Moore
+8,Feta Chargers,11,53.16,-19.83,Alex Smith
+9,Team America,11,124.80,51.81,Mikel Leshoure
+10,Mean,11,72.99,0.00,Round 11
+0,Herlev Tech,12,118.00,30.89,Seattle Seahawks
+1,The Hot Rods IV,12,30.20,-56.91,Jacob Tamme
+2,Fenris,12,167.00,79.89,Chicago Bears
+3,The Giant,12,113.00,25.89,Baltimore Ravens
+4,Svingets Superheroes,12,22.80,-64.31,Randy Moss
+5,Showstoppers,12,137.00,49.89,New England Patriots
+6,Nordvest Annihilators,12,133.10,45.99,Owen Daniels
+7,Red Nation,12,23.00,-64.11,Philadelphia Eagles
+8,Feta Chargers,12,14.00,-73.11,Detroit Lions
+9,Team America,12,113.00,25.89,Houston Texans
+10,Mean,12,87.11,0.00,Round 12
+0,Herlev Tech,13,101.30,44.44,Kyle Rudolph
+1,The Hot Rods IV,13,34.00,-22.86,New York Jets
+2,Fenris,13,98.20,41.34,Jared Cook
+3,The Giant,13,130.62,73.76,Mike Williams
+4,Svingets Superheroes,13,0.00,-56.86,Toby Gerhart
+5,Showstoppers,13,16.10,-40.76,Evan Royster
+6,Nordvest Annihilators,13,20.90,-35.96,Ronnie Brown
+7,Red Nation,13,44.80,-12.06,Michael Bush
+8,Feta Chargers,13,3.30,-53.56,Dustin Keller
+9,Team America,13,119.40,62.54,Danny Amendola
+10,Mean,13,56.86,0.00,Round 13
+0,Herlev Tech,14,35.40,-25.29,Rashad Jennings
+1,The Hot Rods IV,14,11.60,-49.09,Laurent Robinson
+2,Fenris,14,30.00,-30.69,Dan Bailey
+3,The Giant,14,90.00,29.31,David Akers
+4,Svingets Superheroes,14,93.22,32.53,Russell Wilson
+5,Showstoppers,14,75.00,14.31,Mason Crosby
+6,Nordvest Annihilators,14,41.68,-19.01,Jay Cutler
+7,Red Nation,14,54.00,-6.69,Sebastian Janikowski
+8,Feta Chargers,14,61.00,0.31,Matt Prater
+9,Team America,14,115.00,54.31,Stephen Gostkowski
+10,Mean,14,60.69,0.00,Round 14
+0,Herlev Tech,15,71.00,14.82,Jason Hanson
+1,The Hot Rods IV,15,6.00,-50.18,Garrett Hartley
+2,Fenris,15,0.00,-56.18,Delone Carter
+3,The Giant,15,12.80,-43.38,James Starks
+4,Svingets Superheroes,15,85.00,28.82,Greg Zuerlein
+5,Showstoppers,15,35.10,-21.08,Coby Fleener
+6,Nordvest Annihilators,15,68.10,11.92,Davone Bess
+7,Red Nation,15,142.40,86.22,Alfred Morris
+8,Feta Chargers,15,54.90,-1.28,Devery Henderson
+9,Team America,15,86.50,30.32,Jacquizz Rodgers
+10,Mean,15,56.18,0.00,Round 15

@@ -1,0 +1,5 @@
+myArray = [
+	{ "name": "John Doe", "age": 29 }, 
+	{ "name": "Anna Smith", "age": 24 }, 
+	{ "name": "Peter Jones", "age": 39 }
+]
